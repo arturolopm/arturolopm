@@ -1,7 +1,7 @@
 Hi 👋 My name is Arturo Lopez
 =============================
 
-Front-end Web Developer
+Fullstack Web Developer
 -----------------------
 
 a tech enthusiast, I'm passionate about exploring how technology can improve people's lives. I recently made a career change from business management to coding, and I'm loving it! I'm always on the lookout for exciting projects with great potential, even if the odds are not in their favor. I believe that someone needs to take on the hard stuff and create solutions that make a difference.
