@@ -9,7 +9,7 @@ a tech enthusiast, I'm passionate about exploring how technology can improve peo
 * 🌍  I'm based in Bogotá
 * 🖥️  See my portfolio at [MyPortfolio](http://arturolopez.tech)
 * ✉️  You can contact me at [carturolopezm@gmail.com](mailto:carturolopezm@gmail.com)
-* 🚀  I'm currently working on [Sunquwan store](http://sunquwan.com)
+* 🚀  I'm currently working on [MyJou](http://myjou.tech)
 * 🤝  I'm open to collaborating on Challenging projects
 * ⚡  Proffesional cat lover
 
