@@ -9,7 +9,7 @@ a tech enthusiast, I'm passionate about exploring how technology can improve peo
 * 🌍  I'm based in Bogotá
 * 🖥️  See my portfolio at [MyPortfolio](http://arturolopez.tech)
 * ✉️  You can contact me at [carturolopezm@gmail.com](mailto:carturolopezm@gmail.com)
-* 🚀  I'm currently working on [MyJou](http://myjou.tech)
+* 🚀  I'm currently working on [Studio5](http://studiocincomaquillaje.com)
 * 🤝  I'm open to collaborating on Challenging projects
 * ⚡  Proffesional cat lover
 
@@ -17,6 +17,7 @@ a tech enthusiast, I'm passionate about exploring how technology can improve peo
 
 
 <p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
