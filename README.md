@@ -7,7 +7,7 @@ Fullstack Web Developer
 a tech enthusiast, I'm passionate about exploring how technology can improve people's lives. I recently made a career change from business management to coding, and I'm loving it! I'm always on the lookout for exciting projects with great potential, even if the odds are not in their favor. I believe that someone needs to take on the hard stuff and create solutions that make a difference.
 
 * 🌍  I'm based in Bogotá
-* 🖥️  See my portfolio at [MyPortfolio](http://arturolopez.tech)
+* 🖥️  See my portfolio at [MyPortfolio](https://arturos-portfolio.vercel.app)
 * ✉️  You can contact me at [carturolopezm@gmail.com](mailto:carturolopezm@gmail.com)
 * 🚀  I'm currently working on [Globant](https://www.globant.com)
 * 🤝  I'm open to collaborating on Challenging projects
